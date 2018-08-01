@@ -6,3 +6,6 @@ el objetivo de este proyecto es analizar todas las secuencias de los miRNAs\
 
 páginas importantes :
 [1] mirbase.com
+
+no olvidar consultar también:
+[2] arabidopsis.org
