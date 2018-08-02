@@ -19,3 +19,6 @@ Pasos importantes:
 3. Análisis de secuencia de miRNA, precursor y maduro
 	3.1 Consultar miRNA en [1]
 	3.2 Consultar en [2]
+
+NOTA: Como paso adicional hacer un blast entre secuencias de ambas páginas.
+
